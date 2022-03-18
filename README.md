@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maulanicandra
-- 👀 I’m interested in Data Analysis and Data Science
+- 👀 I’m interested in Data Analystics and Data Science
 - 🌱 I’m currently learning SQL, Phyton, R
 - 📫 How to reach me maulani.candra@gmail.com
 
